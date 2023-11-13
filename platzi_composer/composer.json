@@ -2,10 +2,10 @@
     "name": "wilgusper/text",
         "autoload":{
             "psr-4":{
-                "Text\\": "src/"
+                "Text\\":"src/"
             },
             "files":[
-                "scr/helpers.php"
+                "src/helpers.php"
             ]
 
         }
